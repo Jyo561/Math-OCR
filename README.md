@@ -114,5 +114,5 @@ def contours_text(orig, img, contours):
 
         print(text)
     
-    Credits:-@iamsahebgiri for helping in Pytesseract setup
-             @vmtram for reference of the basic code
+Credits:-@iamsahebgiri for helping in Pytesseract setup
+         @vmtram for reference of the basic code
