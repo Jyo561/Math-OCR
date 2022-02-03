@@ -113,3 +113,6 @@ def contours_text(orig, img, contours):
         text = pytesseract.image_to_string(cropped, config=config) 
 
         print(text)
+    
+    Credits:-@iamsahebgiri for helping in Pytesseract setup
+             @vmtram for reference of the basic code
